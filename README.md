@@ -6,3 +6,5 @@ Froudist-Walsh, Bliss, Ding, Rapan, Niu, Knoblauch, Zilles, Kennedy, Palomero-Ga
 Neuron, 2021
 
 
+The code in this repository is available under the GNU General Public License v3.0.
+
