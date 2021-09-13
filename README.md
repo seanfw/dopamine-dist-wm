@@ -8,3 +8,4 @@ Neuron, 2021
 
 The code in this repository is available under the GNU General Public License v3.0.
 
+<a href="https://doi.org/10.5281/zenodo.5172750"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5172750.svg" alt="DOI"></a>
